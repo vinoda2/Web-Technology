@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(106, 224, 228);
+}
+header{
+    background-color: black;
+    text-align: center;
+    text-decoration: dotted;
+    text-shadow: 20ch;
+}
+.hcolor{
+    background-color: burlywood;
+}
+
+footer{
+    background-color: burlywood;
+    text-align: center;
+}
+card{
+    background-color: blueviolet;
+    background-image:url("kerala.jpg");
+}
